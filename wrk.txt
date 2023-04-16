@@ -1,0 +1,4 @@
+
+
+composer reauire laravel/jetstream
+php artisan jetstream:install inertia
